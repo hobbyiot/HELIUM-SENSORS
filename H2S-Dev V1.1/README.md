@@ -1,6 +1,7 @@
-#Helium IoT Network Sensor Development board
+# Helium IoT Network Sensor Development board
 Version 1.1
-(H2S-Dev V1.1)
+
+H2S-Dev V1.1
 
 The project targets a LoRaWAN device - Helium IoT Network Sensor Development board (H2S-Dev) product with GNSS tracking option for primary usage with the LoRaWAN based Helium network. The board is mainly targeted to makers and hobbyists.
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.1/PICS/H2S-Dev%20V1.1.PNG)
