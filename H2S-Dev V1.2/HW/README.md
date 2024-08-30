@@ -1,5 +1,5 @@
 # Helium IoT Network Sensor Development board
-# Hardware description
+## Hardware description
 Version 1.2
 
 H2S-Dev V1.2
