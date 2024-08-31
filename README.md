@@ -1,5 +1,5 @@
 # HELIUM-SENSORS
-# Helium IoT Network Sensor Development board
+## Helium IoT Network Sensor Development board
 
 The project targets a LoRaWAN device - Helium IoT Network Sensor Development board (H2S-Dev) product with GNSS tracking option for primary usage with the LoRaWAN based Helium network. The board is mainly targeted to makers and hobbyists.
 
@@ -15,17 +15,19 @@ The new and improved version with flexible antennas configuration and various de
 
 More information: https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2
 
-# Prerequisites
+### Prerequisites
 
 - A valid Helium console account (https://console.helium.com/welcome)
 - Device data (ID, EUIs, etc.)
 - Arduino environment
-- USB programming adapter (https://www.olimex.com/Products/IoT/Programmer/ESP-PROG/)
-- USB-C power cable
+- USB programming adapter (for ex.: https://www.olimex.com/Products/IoT/Programmer/ESP-PROG/)
+- Micro-USB and/or USB-C power cable (depends on the programming adapter selected/optional)
 - LiPo battery with JST 2 pole 1.25 mm (0.049") connector (optional)
-- HobbyIoT H2S-Dev V1.1 board
+- Most recent HobbyIoT H2S-Dev board
 
 #
 More information: [H2S-Dev board Hardware description and features](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.1/DOCS/H2S-Dev%20board%20Hardware%20description%20and%20features.pdf)
 
 https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2/HW
+
+https://www.hobbyiot.net/
