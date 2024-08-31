@@ -1,9 +1,9 @@
-# Helium IoT Network Sensor Development board
-## H2S-Dev V1.2 Hardware review
+# Helium IoT Network Sensor Development board | H2S-Dev V1.2
+## Hardware review
 
-### H2S-Dev V1.2 Circuit schematic
+### Circuit schematic
 
-The circuit schematic of the Helium IoT Network Sensor Development board V1.2 is shown on the picture below. Central area presents the MCU and optional GNSS module together with the LoRa radio module and antenna connector.
+The circuit schematic of the Helium IoT Network Sensor Development board (H2S-Dev V1.2) is shown on the picture below. Central area presents the MCU and optional GNSS module together with the LoRa radio module and antenna connector.
 
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/H2S-Dev%20V1.2%20SCH.PNG)
 
@@ -11,9 +11,9 @@ On the left the mandatory I/O interface connectors are situated. Right part cons
 
 The schematic is drawn on a A3 standard page. For detailed view use the link to the PDF document below.
 
-### H2S-Dev V1.2 Printed Circuit board
+### Printed Circuit board
 
-The printed circuit board (PCB) of the Helium IoT Network Sensor Development board V1.2 is designed to use a standard FR-4 1.6 mm 2-layer material for production.
+The printed circuit board (PCB) of the Helium IoT Network Sensor Development board (H2S-Dev V1.2) is designed to use a standard FR-4 1.6 mm 2-layer material for production.
 
 H2S-Dev V1.2 Top Layer     |  H2S-Dev V1.2 Bottom Layer
 :-------------------------:|:-------------------------:
