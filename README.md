@@ -9,7 +9,7 @@ The current version of the Helium IoT Network Sensor Development board (H2S-Dev)
 
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.1/PICS/H2S-Dev%20V1.1%20Prog%20P1.jpg)
 
-The new and improved version with flexible antennas configuration and various developer options (H2S-Dev V1.2) prototypes are currently in production.
+### The new and improved version with flexible antennas configuration and various developer options (H2S-Dev V1.2) prototypes are currently in production.
 
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/H2S-Dev%20V1.2%20PER.PNG)
 
