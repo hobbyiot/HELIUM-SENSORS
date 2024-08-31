@@ -9,7 +9,7 @@ The circuit schematic of the Helium IoT Network Sensor Development board (H2S-De
 
 On the left the mandatory I/O interface connectors are situated. Right part consists the optional connectors. On the bottom part of the sheet the battery input and charging circuitry are placed together with the DC/DC converter responsible for generating the supply voltage for the entire design. LED indicators and a Reset switch are placed according to their corresponding function.
 
-The schematic is drawn on a A3 standard page.
+The schematic is drawn on a A3 standard page. Detailed schematic in PDF format: [H2S-Dev V1.2 Schematic](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/HW/H2S-Dev%20V1.2%20Schematic.pdf)
 
 ### Printed Circuit board
 
