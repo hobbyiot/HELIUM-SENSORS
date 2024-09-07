@@ -1,5 +1,5 @@
 # Helium IoT Network Sensor Development board | H2S-Dev V1.2
-## Manufacturing data - Basic variant
+## Manufacturing data
 
 ### General
 
