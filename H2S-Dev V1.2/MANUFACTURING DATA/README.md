@@ -3,7 +3,7 @@
 
 ### General
 
-Manufacturing data is required to establish the production process of a device. The minimum set of documents include graphical information representing the layers of the printed circuit board (PCB) layers, bill of materials (BOM) of the components, pick-place file with machine instructions of coordinates and rotation of each component to populate on the board as well as assembly drawings of the component sketches on the board. Additional information may include 3D views, real pictures of a prototype and other information to ensure the quality manufacturing process.
+Manufacturing data is required to establish the production process of a device. The minimum set of documents include graphical information representing the layers of the printed circuit board (PCB) layers, bill of materials (BOM) of the components, pick-place file with machine instructions of coordinates and rotation of each component to populate as well as assembly drawings of the component sketches on the board. Additional information may include 3D views, real pictures of a prototype and other information to ensure the quality manufacturing process.
 
 A visualization of the H2S-Dev V1.2 production data - Gerber and Drill files including PCB edge, Top Layer, round and slot holes.
 
@@ -17,11 +17,11 @@ Gerber files contain graphical information of the layers of the PCB. Copper laye
 
 ### Pick-place data
 
-Pick-place data is required for component placement. Each component designator is related to the part position on the board. Coordinates together with rotation information are provided for the manufacturing process. An inspection of the actual placement before soldering is always a good practice.
+Pick-place data is required for component placement. Each component designator is related to the part position on the board. Coordinates together with rotation information are provided for the component placement process. A careful inspection of the first populated sample before soldering is always a good practice.
 
 ### Bill of materials (BOM)
 
-Bill of materials (BOM) is the actual list of components used. It contains important information for the exact type defined by the manufacturer and the corresponding part number. Specific parameters like voltage, current, material, etc. are also part of the BOM. It may also include other useful information as per manufacturer's requirements.
+Bill of materials (BOM) is the actual list of components used. It contains important information for the exact type of each part defined by the component manufacturer and the corresponding part number. Specific parameters like voltage, current, material, etc. are also part of the BOM. It may also include other useful information as per PCB manufacturer's requirements.
 
 ### H2S-Dev V1.2 Variants
 
