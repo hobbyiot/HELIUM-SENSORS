@@ -29,11 +29,11 @@ On the top of the board 2x20 connector and Groove compatible footprints are loca
 
 The size and mechanics and 2x20 connector connections of the Helium IoT Network Sensor Development board V1.2 comply with the recent RaspberryPi specifications.
 
-The hardware of the Helium IoT Network Sensor Development board V1.2 is designed as an opensource project in the Altium Circuit Maker environment. To access project follow the links below.
+#
+The hardware of the Helium IoT Network Sensor Development board V1.2 is designed as an open source project in the Altium Circuit Maker environment. To access the project follow the links below.
 
 https://workspace.circuitmaker.com/Projects/Details/sivanovbg/H2S-Dev-V12
 
 https://365.altium.com/files/AC741A32-A420-4803-868D-E6CB6756A587
 #
 More useful information: [H2S-Dev board Hardware description and features](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.1/DOCS/H2S-Dev%20board%20Hardware%20description%20and%20features.pdf)
-
