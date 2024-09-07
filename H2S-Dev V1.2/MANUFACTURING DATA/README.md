@@ -9,7 +9,7 @@ A visualization of the H2S-Dev V1.2 production data - Gerber and Drill files inc
 
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/h2s-Gerber%20view.PNG)
 
-Software used: ![PentaLogix](https://www.pentalogix.com/t/software-products/viewmate) ViewMate 10 Free edition (old but nice to use!)
+Software used: [PentaLogix](https://www.pentalogix.com/t/software-products/viewmate) ViewMate 10 Free edition (old but nice to use!)
 
 ### Gerber files
 
