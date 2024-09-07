@@ -7,6 +7,8 @@ Manufacturing data is required to establish the production process of a device. 
 
 ### Gerber files
 
+![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/h2s-Gerber%20view.PNG)
+
 Gerber files contain graphical information of the layers of the PCB. Copper layers, solder mask layers, silk screen print, PCB border and others are used to manufacture the board. Drill files contain information about the coordinates, size and type (round/slot) of the board holes. Gerber and drill files use a specific format related with the classical photo and drill machines used for manufacturing. Number precision (digits after the decimal point) is corresponding to precision of each process used to manufacture the real board.
 
 ### Pick-place data
