@@ -34,4 +34,4 @@ https://workspace.circuitmaker.com/Projects/Details/sivanovbg/H2S-Dev-V12
 
 https://365.altium.com/files/AC741A32-A420-4803-868D-E6CB6756A587
 #
-More useful information: [H2S-Dev board Hardware description and features](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.1/DOCS/H2S-Dev%20board%20Hardware%20description%20and%20features.pdf)
+More useful information: [H2S-Dev board V1.2 Hardware description and features](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/H2S-Dev%20board%20V1.2%20Hardware%20description%20and%20features.pdf)
