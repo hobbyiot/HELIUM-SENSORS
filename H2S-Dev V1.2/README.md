@@ -5,7 +5,7 @@
 
 - A U.FL connector has been replaced the fixed LoRa spring antenna to improve the flexibility for the developers to connect most suitable antenna according the radio power and frequency requirements;
 
-- A Basic variant of the development board has been defined as a cheap version of the PCB to improve cost efectiveness and design flexibility;
+- A Basic variant of the development board has been defined as a cheap version of the PCB to improve cost effectiveness and design flexibility;
 
 - A Full variant of the development board is now including GNSS module that gives the development of a Helium based GNSS tracking device a kick start to test the application
 
