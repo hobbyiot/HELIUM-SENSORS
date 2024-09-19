@@ -21,7 +21,7 @@ H2S-Dev V1.2 Top Layer     |  H2S-Dev V1.2 Bottom Layer
 
 Main parts are situated for convenient operation and minimal interference between radios implemented. The LoRa module pin 1 to U.FL antenna small trace is routed with a special attention to ensure the 50 ohm impedance requirement of that trace. The GNSS module is far away, on the other edge of the board, and it is surrounded by solid copper regions on both top and bottom copper layers according the recommendations for proper reception of the satellite signals by the small chip antenna.
 
-JST battery connector and USB-C power socket are situated on the down left of the board close to the corresponding circuitry. Programming interface is a 7-pin heder for conncting a suitable module to burn a software sketch into the MCU via serial interface.
+JST battery connector and USB-C power socket are situated on the down left of the board close to the corresponding circuitry. Programming interface is a 7-pin header for connecting a suitable module to burn a software sketch into the MCU via serial interface.
 
 On the top of the board 2x20 connector and Groove compatible footprints are located. Both of them carry powering and I2C interfaces.
 
