@@ -67,7 +67,9 @@ https://365.altium.com/files/AC741A32-A420-4803-868D-E6CB6756A587
 
 ### And one more thing…
 
-#### Technologies and services are important, but the most important are people you are working with. Thank you, PCBWay for the friendly team I hope I will keep working with!
+#### Technologies and services are important, but the most important are people you are working with.
+
+#### Thank you, PCBWay for the friendly team I hope I will keep working with!
 
 ---
 
