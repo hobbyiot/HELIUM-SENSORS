@@ -1,6 +1,6 @@
 ## H2S-Dev with DHT11 temperature and humidity sensor example
 
-The example code in ([H2S-DEV-THS-V0.1.ino](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/SW/H2S-DEV-THS-V0.1.ino)) sends a valid LoRaWAN packet over The Helium network with a payload containing temperature and humidity data as they are read from a DHT11 sensor, connected to GPIO13 using frequency and encryption settings according your region.
+The most recent example code in ([H2S-DEV-THS-V0.5.ino](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/SW/H2S-DEV-THS-V0.5.ino)) sends a valid LoRaWAN packet over The Helium network with a payload containing temperature and humidity data as they are read from a DHT11 sensor, connected to GPIO#13 using frequency and encryption settings according your region.
 
 You can solder and wire the DHT11 sensor within the H2S-Dev soldering area or just use Crowtail connector directly to the H2S-Dev board using the [Elecrow DHT11 sensor module](https://www.elecrow.com/crowtail-temperature-humidity-sensor-p-1229.html).
 
