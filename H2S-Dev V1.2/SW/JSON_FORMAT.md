@@ -1,0 +1,3 @@
+## H2S-Dev Helium network JSON format
+
+Coming soon ...
