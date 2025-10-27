@@ -1,5 +1,5 @@
 # HELIUM-SENSORS
-## Helium IoT Network Sensor Development board | ![H2S-Dev V1.2](https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2)
+## Helium IoT Network Sensor Development board | [H2S-Dev V1.2](https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2)
 
 H2S-Dev board is a ready-to-use, Open source hardware, Arduino compatible, LoRaWAN Helium network sensor development board. It is capable of implementing a number of sensor and positioning applications. The board is mainly targeted to makers and hobbyists.
 
