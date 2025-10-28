@@ -11,13 +11,19 @@ The most recent version of the Helium IoT Network Sensor Development board (H2S-
 
 https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2
 
-#### [This project was sponsored by PCBWay in 2024](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/README.md#this-project-was-sponsored-by-pcbway).
+---
 
-#### Levcoin donations are welcome, BTC and Helium (HNT) are accepted.
+### [This project was sponsored by PCBWay in 2024](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/README.md#this-project-was-sponsored-by-pcbway).
+
+### Levcoin donations are welcome, BTC and Helium (HNT) are accepted.
+
+---
+
+H2S-Dev board is built around ESP32 MCU module and LoRaWAN SX1276 based radio module, supporting worldwide radio frequency bands, I2C standard interfaces for connecting various sensors and the relatively cheap integrated GNSS module with small chip antenna on it.
 
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/H2S-Dev%20board%20V1.2%20Main%20blocks.jpg)
 
-H2S-Dev board is built around ESP32 MCU module and LoRaWAN SX1276 based radio module, supporting worldwide radio frequency bands, I2C standard interfaces for connecting various sensors and the relatively cheap integrated GNSS module with small chip antenna on it. The development board also incorporates a standard 7-pin ESP32 serial programming interface to use with any compatible Serial to USB adapter. Set of LED indicators - Power, “1 second” GNSS, Charging and General purpose LEDs are on board for indicating certain activities. USB-C and LiPo battery sockets are available for dual powering with charging circuitry and battery level sensing line routed to a CPU GPIO pin. There is also a development area grid - holes matrix area (4 rows x 8 holes each, 0.1 inch / 2.54 mm pitch) with power and ground points nearby for adding sensors, interfaces, and add-ons. Several GPIOs are routed close to the matrix area.
+The development board also incorporates a standard 7-pin ESP32 serial programming interface to use with any compatible Serial to USB adapter. Set of LED indicators - Power, “1 second” GNSS, Charging and General purpose LEDs are on board for indicating certain activities. USB-C and LiPo battery sockets are available for dual powering with charging circuitry and battery level sensing line routed to a CPU GPIO pin. There is also a development area grid - holes matrix area (4 rows x 8 holes each, 0.1 inch / 2.54 mm pitch) with power and ground points nearby for adding sensors, interfaces, and add-ons. Several GPIOs are routed close to the matrix area.
 
 ### Technical parameters
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/H2S-Dev%20board%20V1.2%20Table%201.jpg)
@@ -73,9 +79,11 @@ https://365.altium.com/files/AC741A32-A420-4803-868D-E6CB6756A587
 
 ---
 
-### And one more thing…
+### And one more thing… Technologies and services are important, but the most important are people you are working with.
 
-#### Technologies and services are important, but the most important are people you are working with.
+---
+
+### Crypto donations
 
 Crypto | Wallet address
 :-------------------------------:|:----------------------------------------------------------------------:
