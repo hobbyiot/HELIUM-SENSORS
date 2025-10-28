@@ -77,9 +77,9 @@ https://365.altium.com/files/AC741A32-A420-4803-868D-E6CB6756A587
 
 #### Technologies and services are important, but the most important are people you are working with.
 
-Donations | Wallet address
+Crypto | Wallet address
 :-------------------------------:|:----------------------------------------------------------------------:
-[Levcoin](https://levcoin.net/) | bg2HVDv6r9VhCi2fR8QeBy5VAgbcav7YY3yypi6ugYoBFXgFmqjQGKWjm7LZrsRQx488v58UjnYXRNdQKU5vjsiA2Yj1kNtYZ
+[Levcoin](https://levcoin.net/) | <small>bg2HVDv6r9VhCi2fR8QeBy5VAgbcav7YY3yypi6ugYoBFXgFmqjQGKWjm7LZrsRQx488v58UjnYXRNdQKU5vjsiA2Yj1kNtYZ</small>
 Bitcoin (BTC) | bc1q0l2zv2ayns5ppz6v9xnggkjyskdt0ywgk6zsck
 Helium (HNT) | 9Un8EUQdXY53rSst26B5tufz9FUZbhcfqTYNMr4AuATh
 
