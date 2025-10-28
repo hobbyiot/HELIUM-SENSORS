@@ -3,22 +3,17 @@
 
 H2S-Dev board is a ready-to-use, Open source hardware, Arduino compatible, LoRaWAN Helium network sensor development board. It is capable of implementing a number of sensor and positioning applications. The board is mainly targeted to makers and hobbyists.
 
----
-
-#### This project is sponsored by PCBWay. They offer a turnkey service to manufacture and assemble your printed circuit boards! The whole operation is fast and reliable since every single step is agreed between the customer and the responsible people from the factory. Every one detail is discussed as the components and materials used are agreed on at a high professional level.
-#### Ordering of the boards and assembly service is easy to use and fully automated through the PCBWay website and is conducted smoothly. The forwarding options are fast and flexible to have your prototypes on time!
-
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/H2S_V1.2-100.jpg)
-
-#### I am quite impressed with the way of work and communication with the PCBWay team. The communication is fast and focused on the customer's needs. I also found PCBWay conducts various contests and grows an open source hardware community! There is even a possibility to review and order an open source project, included by a developer on the PCBWay store!
-
----
 
 H2S-Dev board key features and flexible assembly options including ESP32 and SX1276 LoRa worldwide modules as well as optional GNSS. A practical powering circuitry is implemented that is capable of powering the board from the programming interface, USB-C and/or RPi compatible connector. The LiPo battery controller also charges the battery connected. The soldering area and I2C extensions allow wiring of sensors and connecting devices via I2C interfaces.
 
 The most recent version of the Helium IoT Network Sensor Development board (H2S-Dev) is V1.2
 
 https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2
+
+#### [This project was sponsored by PCBWay in 2024](https://github.com/hobbyiot/HELIUM-SENSORS/edit/main/README.md#this-project-was-sponsored-by-pcbway).
+
+#### Crypto donations are welcome - see below.
 
 ![](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/H2S-Dev%20V1.2/PICS/H2S-Dev%20board%20V1.2%20Main%20blocks.jpg)
 
@@ -65,11 +60,22 @@ https://workspace.circuitmaker.com/Projects/Details/sivanovbg/H2S-Dev-V12
 
 https://365.altium.com/files/AC741A32-A420-4803-868D-E6CB6756A587
 
+---
+
+#### This project was sponsored by PCBWay.
+
+#### They offer a turnkey service to manufacture and assemble your printed circuit boards! The whole operation is fast and reliable since every single step is agreed between the customer and the responsible people from the factory. Every one detail is discussed as the components and materials used are agreed on at a high professional level.
+#### Ordering of the boards and assembly service is easy to use and fully automated through the PCBWay website and is conducted smoothly. The forwarding options are fast and flexible to have your prototypes on time!
+
+#### I am quite impressed with the way of work and communication with the PCBWay team. The communication is fast and focused on the customer's needs. I also found PCBWay conducts various contests and grows an open source hardware community! There is even a possibility to review and order an open source project, included by a developer on the PCBWay store!
+
+#### Thank you, PCBWay and your friendly team! I hope I will keep working with!
+
+---
+
 ### And one more thing…
 
 #### Technologies and services are important, but the most important are people you are working with.
-
-#### Thank you, PCBWay and your friendly team! I hope I will keep working with!
 
 ---
 
