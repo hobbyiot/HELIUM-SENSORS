@@ -11,7 +11,7 @@ The most recent version of the Helium IoT Network Sensor Development board (H2S-
 
 https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2
 
-#### [This project was sponsored by PCBWay in 2024](https://github.com/hobbyiot/HELIUM-SENSORS/edit/main/README.md#this-project-was-sponsored-by-pcbway).
+#### [This project was sponsored by PCBWay in 2024](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/README.md#this-project-was-sponsored-by-pcbway).
 
 #### Crypto donations are welcome - see below.
 
