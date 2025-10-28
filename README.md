@@ -15,7 +15,7 @@ https://github.com/hobbyiot/HELIUM-SENSORS/tree/main/H2S-Dev%20V1.2
 
 ### [This project was sponsored by PCBWay in 2024](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/README.md#this-project-was-sponsored-by-pcbway).
 
-### [Levcoin donations are welcome, BTC and Helium (HNT) are accepted](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/README.md#crypto-donations).
+### [Levcoin donations are welcome, Bitcoin (BTC) and Helium (HNT) are accepted](https://github.com/hobbyiot/HELIUM-SENSORS/blob/main/README.md#crypto-donations).
 
 ---
 
